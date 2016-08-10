@@ -10,6 +10,7 @@ https://github.com/
 
 
 [![sign_up](https://i.gyazo.com/fcbc0598296a3f0d85ce810e5847fed8.png)](https://gyazo.com/fcbc0598296a3f0d85ce810e5847fed8)
+
 push [sign up for free]
 
 type your User name
@@ -38,5 +39,50 @@ https://c9.io/
 
 [![Gyazo](https://i.gyazo.com/7a45800fe32c74e2fabed35749b863b2.png)](https://gyazo.com/7a45800fe32c74e2fabed35749b863b2)
 
+
 =================================
+
+```
+mysql-ctl install
+```
+
+```
+mysql-ctl cli
+```
+
+```
+SHOW CHARACTER SET;
+```
+
+```
+SHOW CREATE DATABASE db01;
+```
+
+```
+CREATE DATABASE db01 CHARACTER SET utf8;
+```
+
+```
+DROP DATABASE db01;
+```
+
+```
+USE db01;
+```
+
+```
+CREATE TABLE tb1 (id int, name varchar(20));
+```
+
+```
+SHOW COLUMNS FROM tb1; #test
+```
+
+```
+INSERT INTO `tb1`(`id`, `name`) VALUES(1, 'KhmerWord');
+```
+
+```
+SELECT * FROM tb1;
+```
 
