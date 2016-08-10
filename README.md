@@ -6,6 +6,8 @@ What kind of things you can learn in this lesson?
 
 [tmp]
 
+![Alt text][tmp]
+
 [tmp]: https://github.com/vulture0902/khmergeek-lesson-03#lets-create-a-db  "1.how to create mysql server on linux."
 
 ![1.how to create mysql server on linux.](https://github.com/vulture0902/khmergeek-lesson-03#lets-create-a-db)
