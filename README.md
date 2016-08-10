@@ -4,7 +4,23 @@
 
 [![top-image](https://i.gyazo.com/1ef3bdb97ea3b81dd9cc74d98485f325.gif)](https://gyazo.com/1ef3bdb97ea3b81dd9cc74d98485f325)
 
+=================================
+Access to  GitHub
+https://github.com/
 
+
+[![sign_up](https://i.gyazo.com/fcbc0598296a3f0d85ce810e5847fed8.png)](https://gyazo.com/fcbc0598296a3f0d85ce810e5847fed8)
+push [sign up for free]
+
+type your User name
+type your Email
+type your Password
+
+[![CreatApp](https://i.gyazo.com/577fb3fbc6870eecb8b1a9d89561f44b.png)](https://gyazo.com/577fb3fbc6870eecb8b1a9d89561f44b)
+Select Free Account
+
+[![Sign up](https://i.gyazo.com/88c900a681f288bbcf4e75a01058a8c2.png)](https://gyazo.com/88c900a681f288bbcf4e75a01058a8c2)
+push [Finish Sign Up]
 
 =================================
 Access to Cloud9
