@@ -87,3 +87,4 @@ SELECT * FROM tb1;
 ```
 
 [![Gyazo](https://gyazo.com/42256f4126eb0b70ea073012c4363a89.png)](https://gyazo.com/42256f4126eb0b70ea073012c4363a89)
+
