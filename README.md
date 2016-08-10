@@ -1,6 +1,13 @@
 # khmergeek-lesson-03
 
- - របៀបបង្កើត basic web site
+ - how to access mysql from basic php for khmer code.
+
+What kind of things you can learn in this lesson?
+
+1.how to create mysql server on linux.
+2.how to access mysql from php code.
+3.How to display from DB a khmer fonts.
+
 
 [![top-image](https://i.gyazo.com/1ef3bdb97ea3b81dd9cc74d98485f325.gif)](https://gyazo.com/1ef3bdb97ea3b81dd9cc74d98485f325)
 
@@ -41,6 +48,8 @@ https://c9.io/
 
 
 =================================
+# Let's create a DB.
+
 
 ```
 mysql-ctl install
