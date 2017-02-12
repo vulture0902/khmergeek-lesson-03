@@ -29,9 +29,6 @@ SHOW CREATE DATABASE db01;
 CREATE DATABASE db01 CHARACTER SET utf8;
 ```
 
-```
-DROP DATABASE db01;
-```
 
 ```
 USE db01;
@@ -54,4 +51,11 @@ SELECT * FROM tb1;
 ```
 
 [![Gyazo](https://gyazo.com/42256f4126eb0b70ea073012c4363a89.png)](https://gyazo.com/42256f4126eb0b70ea073012c4363a89)
+
+
+for delete DB.
+
+```
+DROP DATABASE db01;
+```
 
